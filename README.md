@@ -1,1 +1,1 @@
-# Mutualistic_fronts
+# Multiple_colors_voter_model
